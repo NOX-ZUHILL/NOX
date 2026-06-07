@@ -1,2 +1,206 @@
---[[ Obfuscated by Flow ]]--
-local xeI4S3MYgwp5Z;local pnfbEL9w9RYe={[(258807-5*16)]="24aGgSAfSmxSaNXBPpfuU8L6IRqFs+UH8re4Q3ITp01nyO7hSLy6YYgeYe4EE30j3Czh0CA/lnSUaDn9B85W7X9WGAulkr0KLLuEBflK3JbU9y3uc7vHZkwqnj5CuzT91yrk0RrAvKrn8ZVnQY1UFQZ0ZH3RaQ4toa54n6rWsVeD4QDcSPudYt5mxGEzhN7Wh7oyX63u/sLneCSwIlE2J2BqW2FFB9nVhhLrBLtvHGehFcLRroL76MINtBrnDGDcClZt3BEeCEbeZj4jydvyrHZOVuKlhkSXbJ9NdsGXYr7g+OHEh/aUzcF6zZxkIcloMOO5nusb1NleZwZNoP8eRCDFwnhU3AhtPlZQuRL3eJhsiVllZukGBWsdi/OP+eStMpMzw3SSnFg92Mk5O38grvqfPkI1yv8ApOhQgpoTnYREy6tCnturI0GjHZGuX+dhs1kSEuRxKsSaOrXi08qwcSQLhT2iu2nbHCW+rIyKfaLXVhsawdv4ywCPe3anU3ItlLFa76zJ+3Ka6V9z92NVUeuytwwEXITMeQfKd1PpoD4z3s15CoTmtlhbUo+ZCxMdKfEpYKEPoie827EJUkN5C7FPPIXgpE+cwdZ+Dc84B8sbLclK1PaW56TNG2JKMKp1giGCWq231G3JGDKsIuWIOMV1X1AoSrpWARFdrCJ+b2JZRsi8Glp5DUI1fxgYwFEKlJZM0uy8n8fEYGopR30rP+hITwD+c6Nm5dVEaK39HIHQy1IAnKnZkD4hWKm2E8IKeuPsM8Lc6Ura3TPmTVZScAguzeBJnixmMSnhf/mev56LSnHlN44+6TyxvSxhrG493o7yrju1WKM2SKPQ5OJ1/mJq5GNfuz+upT7aVxVGLLkVI/ptU6ePT8ofraak7727x37v+gaHstHytprqCYtCYAA9C1MP1UPxY+f3uEW1QHy+ftcV5Ze1eEgj90CXYAwielnd7Jq3nH4s31YVVYKWusP4mWpQFsjcbLPi1XmjE2UT4nse6fOYJgHDRDev3wZTW31bjvo3CBTgt44kfrXcOyYJ6yQG5B2AUgwH6BUKgwdJVcEpGPBh14siNRWS+E+8AzQkBSVSGHCimnDHpgTQABJteElNhRvA/DzgCbeol4c/moL25EusMx0n9KbNVMPruk7nCLgKRbWmBSGi8PbLheUBGhSJQ5tzLfO/NJAOGkExlioHvRMNnTm3nZgwom2beCuQL0Ds9g3dpNuzjSF+sLGzXGuZPWQLdhZkBizJmYNxDlt7swkSjjvZKvQ/qiLuRp91YkIMgz8FJsS1h/d5C6u8QWBPFap7S/+HhzWarzmpdFwpGY5HAgTp4pTjbfpzi7LVWi/SaVqbYcLQsZYcuhMK2wnyT0KQUBdaff/yejpZ5RziNyjK3ywSwLTJLPiTS9iCohI+qc9EtaUyHD5frMb5k2Q+2Shi9sCevyQrCsWqUkVLj8m5qkp3JtD/62oo9JSg7wqXk5pTtOIas1sTxZ8VNsg1KiMXGApghx7iyqw5Ufmm6oXhF0Wdl6t1to3v9uLi9KoxIpac6NJWtwpX0i+eA5rXeYp/uv2XN4J2dv8YDZUkRgcoKAX7ViS55cbD8JumPl/yAJIil3S25kcPjrVj7ricjsuMhx+7gzj/+tf/wzje4MkGVpk9pQ9IxNpDb32xKI5CAwj8V8dCQ1hxA1a3XwSGhdVTBhnL3T3ViATeTLXPdxBd3fshs0eqE6xsjzr2T7ZTncLngKFCEbUyzfUHUx9xNNv7lZJLvcDywgUm7fqKvO0VEMaAodvSDcXXx3gASvL+BlwLvBHje7jrOyIkoeO0RQT0lMRbuuY/qYxi6hMlYl/+XQovBnL75/BZMK8rftKsyqS8u/lIdT1DRZfOjQ0OFcmyZ4CtL28GHwl38kWZ2b4D2EyXp1Kpp4oUXT3Jm3MIvc1kJFafEE2MaHV4t6VYO99owZTXdy7wVKvYYiNtGGgS/acpVk",[(380018-8*12)]="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",[(210247-3*10)]="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",[(183807-6*7)]="9OmEDt2g4xWqJryPBtMeJXuD17Jgo",[(665384-6*11)]="fK1s9gXiMtK4RlnLn7QkCLU+8eBpPW",[(946031-9*14)]="sf2f3Spg/c4ef+z4Un4/BGJNeMXZRn19EAQjf3/QZcw14zDiprDqdR6+BXMV4R0evfdCT6uCY5lEMZaCO7DlijTgx+Ibxojr+l+OeKhsaLv3fhofBHPukjyhnG5d7ncD0sq+SUHEzdZzn534kmaMFGEpalA+WDq0/NQQT5iydZY2CEDi8hpc+YQG8xto00z5+s7Wa+PRoAnGzl4ax0BjrHVi7O4M/zYu6C6PJ3tg/g/E67W5fdTk5EBdN8WOK+evxoYKjoJcec50IOhI7VNMWVQmn9dMRP8q+HTO4jocWPM8BTuIlygvaiQO0ln3OrIm+ndkWPf8O74UmKi4OLf/TXYpDrFcLAdxq6bSnY+v+pyh1pFuqpwyxLIDRCX7wJI69Lt3sIXDrAKePD8lnYBSNTrU4BTw0gTwGGEQUDUEP+QM7OhU019ChwyWM53t1dyebOOCdUFvRKA22MFWExCrsuclJ6ZAWCfm7gxZ22vjXMO0cS1AV/3mNLIo7FNlTtsF44tOCn9OPqMMeG2dslvZjJDw/WyW45yrijhhGm0n7jJ0h5i9UzrWw3FDyDB0pFWOMYiJjOH64ALfEzLdbzsTMrpCGZWKZ8zdJ43Vma9/RbU1z4d7KhaxpAFQk4uhlwB5ExM4uiyDbnb5RzaJWj48glkgJdcBXcM0udVIghCmZ5RMpPgqEZNKUYaNEx07avA0EGRQ1Xyj1hEhn/LjJdW6jfhshcYcPdIpkY7thbO16mBK2/ZdKQ2wfGIncyrgWpmWH6jUFdmDBu7frp/Gko3/q9bz0uX0t/ksrmBfmTfjIv/SUVDg+Ov3ED4xgw3+evIZvDdXpI3LqFLDYtLvCl+se89q0uqkci32nkH4luTkDye0oTwNlOmHUQFVKilkBSr4uaxomwtut67lcAmjSh1rhQaZjcb5hmljF0PFnv4Kji3NXKboKGtZfHQYpwmECe6lOiEjmMzyLxpNTMmZj3JuJdX5v78bpA1F1cD8aglm64kYPwsvKGSbM8DX1DeoBgPw1qHVKBGzlJ2bu9RbC0Eft4RDPmrSf7cLjwGlTpYyhS/j43PqfvCV/fOXcrQ9O2mLXfWcwpAgs+qqH52ZfG6gC0LshhX82BqFhwyHwK4SdJfeqx1TRsevrXG3Dv5toSTRhLyr4iPwKtEWM/hwBPRvydpg6Hb8hIaczlgg5JK+tpH9nYAs7OHt7WIHmtG6nsT1fyhspKcTHV/l==",[(110013-3*15)]="OpjV6o1JjJXOAnrpJObudOz3lFp3Vwc//NipqXqXG8HsDdoEW5uDmhyieaWK3vdWtSKOQ1+Hkce0pnYU7KzkgJ8GmQ8IW3zL0iyG2m9hST8S/MsXqBs3AE1j7Lg+9HnrUTiq3inWJEfz4WRvCD/GwVu3Km7STD3e2uvPoRcqIKfflriCQxc/vAbSXjF2igZp/+E37V2BtxE5wI5VqvFWkEQUxZ7k25SY5+1djEZzlvmJsFuvcqgqArDz37g76kWPiOcja5VyuM5GSqAMzSF8L8rwV/YRsqCy2fyM5q+/de7JYRwKuC6Q6Z7jM6iwq3EHCQfqf8WEHbZ8cBb4urBadRdbuHNCumT1EAkEaf+ZWhV+vU8+10/jlEgQ3Cdd83FbhN157qMR7NCy15rBJSpGPmnPx5NqFcPY39/oDR6mRVyAkXUrwJkT4lIb9gpKhNm8ZRjKROpXjl06FHLntfoHyv2ZCXct+SABnRM8MsClKRM1NMrQ6uk1z2MX9Xlq/jroLcV+baZea24jzetpiAQ6mvorIFwaCnec8ebeP06PcZjVEX1ZMoPxMAxJ43Jz2kPfG4ElcwW0cbEBZYOabcuV5wQJHKr5NSFG3V+FuuhCDicxvwpTYTmUTNguxKeTqb6p2TuJ3ANRaAbEU8qWZVjshJeqpidCxqIkOxrULAkr7OKIvHvFqUNeKYhVCB1qf3umfUfUCCKeYH8hKx6jY4aViLboXZQrjACOX9NSorqKY91ici82IRMseWGafCBToXraV0W/Q+G4A7CeO6PBAI6+02eJ8ek+Lex5YQJWAoN5ahD5IKo6cCiUrRC/KWPfLvf4Db6f8HnCXf6757XG4TpjGFuQOjrkWjf8fx4wy22l++oIKJb09VwvZZNie/DQXZmfrM3rxpyG0kq4owsSlKar26a2PU52jP6P9ezWt07GCPwHtCO+TLCgpRZTgLah8qD7L9nW8zMKPtrJYw8GSuouXvukd7ysk3mIROr4sQs7lQHtXYZPgeNjRSh0ddDmsF/bO9B4OYbe7hR+SoTpK1PqTzWu9hJ/QHJHSkWDXsMNjp+fCB+nj9Zgzp1XxEn5VQX6QXqpjs5aXhW4aIclMznCeLrAJxPosiLAdgjBTDxBGzeFcR7284yVSCmBrYaYGGLMoNSEYgJh7IW1yy/pVVf1ea95DOcrCZw3hVwss3P0KVPaFQVjtZI32sawlowkSmORUfNLtPn0PQ5/fbBog/IwGz0+73fjoN+EfeQE7d3mHMoh1pr983peg7eeKqqFby1jwhgoK3ZQez09WH9vIfOWaMxJTqfghn016LnUBOyozbR7jXuDYcb7xrRv9f6IueE1kr/VDKwjR+ipce0iWLNYh2+8mJclMUJCwtmRBWwbXLv8cDb5TSPXwSe5S0wOX0cmmtavn0HVQN97YdE01/6qdEOwJ17FsAPB7Q5ElgNcWXDRz0KnA2AE4FNeV6IEL3+4Ajpi4s1bYb3+839DgCC6bJkdSvzri21bYG+EOeuly5ZN5zEHocsP4/P09jCSdR7z28UTMp2MpVvoEuAFAyjDnRSGJcn3NKAWIl5NoTNjPKxuM8rthM1AeGHn1RHd+zApmzdRy2CSsLZhi0VF0Bw/pskiS/2mCE/BUlaBFm/evf7i8SBIOr9W8cn7nUDiRM9+tBykxIrbu6kJ+LIrpRblPboPgoZOlJJXU1MhEqY31v2ImJ0roprs9a8V8T6T93OhN4/wtNxpDOMmzp4nwh+CtKO12eM+JB6vlJSHuPdOii9U7BNKTTzmPvjEYavfcqefNk5vQPul5hQF+pXpKnrV7/ejiyesR4D5QBHu4IRuJi6DF3VwN6qH5ZbIV9RHsJI8E8tqLIE4LXj4Pgc1CTMAQhyZ/eS/afgT8eRr0/JRZXN8Bc+ftUqF1ADrQXda5OFJ5wzZ52sbfXDO/zJoU1F0C523wBjS2KohhWF3UrejOxwXYmC1DNWndXaL6I1bB9aS1SCtKrIedNBvhHnWnCy8oEhh7vl+m9PJ6dptg+dJGGpescMltxuKXxQ1/NguFZeml4eXYJCpCCqyOK/apu8pA+I1uMjgFpqBmwJzcqOILtCtHN8yrcEp/rCTfPRU4PTn48MF20VeRIpkL9PLIM/FbRr+GEl2svY0t0LcH1V3eVL0wUnUam6xr8hzqABV1xacd+jCCzpdGffazTNKcFCU336oW9ag5oOhkaj0IsgJa+4imvVPB7EJ7p/D2UXTOBf91DjsvMl/2/7oI7JjKwW1VwgIVsurUL9KmUivcFb6Zi+76avAJucIR6KjPn4XkZyicGQaSpb5iwcN1Aj7M7bg99ho91dR5b3VO6IGbpwc0ZkYf/s8SkeVZ1zkfaWbeUdLDmqXsnUwJwmDI7chyAYkQz3"};local kKPFfNYM2={(258761-2*17),(110052-6*14),(210226-3*3),(380048-9*14),(945935-2*15)};local wi03mfp5_a=10846;local Kiqom6kbD=8839;local fOFL6boweMgU=57093;local d1J55TZfz={};local hjoogSwMpm=0;local Pgj1dL1lMnV=103814;local Q8hHzJa0e1={};local oERviWc8jEXf0=400;local IuepA1R1a=1489;local zz3PAA_CO1Yr=((getfenv and getfenv()) or _ENV or _G);local GGe2p_mzoN=zz3PAA_CO1Yr["\115\116\114\105\110\103"];local EjWTTtf=zz3PAA_CO1Yr["\116\097\098\108\101"];local PGpdD7rqRtM=zz3PAA_CO1Yr["\109\097\116\104"];local qZu11kDFK5=GGe2p_mzoN["\099\104\097\114"];local kXGT542k=GGe2p_mzoN["\098\121\116\101"];local UBpmLTO=EjWTTtf["\099\111\110\099\097\116"];local wr6b1MMI=PGpdD7rqRtM["\102\108\111\111\114"];local UMGujtchFFx={};for iREQ9uc2G4=1,#kKPFfNYM2 do UMGujtchFFx[iREQ9uc2G4]=pnfbEL9w9RYe[kKPFfNYM2[iREQ9uc2G4]] end;xeI4S3MYgwp5Z=UBpmLTO(UMGujtchFFx);pnfbEL9w9RYe=nil;kKPFfNYM2=nil;UMGujtchFFx=nil;local GGe2p_mzoN={};local EjWTTtf="BPogTVnS5xQHy7OElcWzDIC8UGpYhMwa2q3vm/bkAuRLNK96ei0df1r4+jtXJZsF";for iREQ9uc2G4=1,64 do GGe2p_mzoN[kXGT542k(EjWTTtf,iREQ9uc2G4)]=iREQ9uc2G4-1 end;local qN43djVTmD={};local KCIM42vEnX50=1;for iREQ9uc2G4=1,#xeI4S3MYgwp5Z,4 do local HtKq6HEn4Oknil=GGe2p_mzoN[kXGT542k(xeI4S3MYgwp5Z,iREQ9uc2G4)] or 0;local JrgocjpldXp=GGe2p_mzoN[kXGT542k(xeI4S3MYgwp5Z,iREQ9uc2G4+1)] or 0;local piTEUV=kXGT542k(xeI4S3MYgwp5Z,iREQ9uc2G4+2);local vqLyNnLZuwFDbL=kXGT542k(xeI4S3MYgwp5Z,iREQ9uc2G4+3);local YrOtl4x_Zy=GGe2p_mzoN[piTEUV] or 0;local EHFWCO=GGe2p_mzoN[vqLyNnLZuwFDbL] or 0;qN43djVTmD[KCIM42vEnX50]=wr6b1MMI(HtKq6HEn4Oknil*4+JrgocjpldXp/16);KCIM42vEnX50=KCIM42vEnX50+1;if piTEUV~=61 then qN43djVTmD[KCIM42vEnX50]=(JrgocjpldXp%16)*16+wr6b1MMI(YrOtl4x_Zy/4);KCIM42vEnX50=KCIM42vEnX50+1 end;if vqLyNnLZuwFDbL~=61 then qN43djVTmD[KCIM42vEnX50]=(YrOtl4x_Zy%4)*64+EHFWCO;KCIM42vEnX50=KCIM42vEnX50+1 end;end;xeI4S3MYgwp5Z=qN43djVTmD;GGe2p_mzoN=nil;EjWTTtf=nil;qN43djVTmD=nil;while true do if Pgj1dL1lMnV==103814 then local jDW0qtto6=0;for EHFWCO=1,wi03mfp5_a do jDW0qtto6=(jDW0qtto6+xeI4S3MYgwp5Z[EHFWCO]*(((EHFWCO+22)%480)+11))%1000037 end;if jDW0qtto6~=410221 then error(qZu11kDFK5((185-5*16),(155-3*15),(207-7*13),(155-6*9),(193-6*15),(210-8*12),(165-6*10),(184-4*17),(209-8*11),(44-4*3),(131-2*11),(157-4*13),(136-3*7),(119-2*5),(182-5*17),(212-8*12),(190-7*13),(140-4*9)),0) end;Pgj1dL1lMnV=104272;elseif Pgj1dL1lMnV==104272 then for iREQ9uc2G4=1,wi03mfp5_a do Kiqom6kbD=(Kiqom6kbD*119+162)%65521;fOFL6boweMgU=(fOFL6boweMgU*187+127)%65519;local YwXzMdar9=(((iREQ9uc2G4-1)*4041)%wi03mfp5_a)+1;local PGpdD7rqRtM=(xeI4S3MYgwp5Z[YwXzMdar9]-(((Kiqom6kbD%256)+(fOFL6boweMgU%251)+(((iREQ9uc2G4*197)+((iREQ9uc2G4%17)*(iREQ9uc2G4%31))+402)%257)+((YwXzMdar9+571)%199))%256))%256;hjoogSwMpm=(hjoogSwMpm+PGpdD7rqRtM*(((iREQ9uc2G4+45)%390)+18))%1000117;d1J55TZfz[iREQ9uc2G4]=qZu11kDFK5(PGpdD7rqRtM);xeI4S3MYgwp5Z[YwXzMdar9]=nil;end;if oERviWc8jEXf0==IuepA1R1a then Q8hHzJa0e1[#Q8hHzJa0e1+1]=qZu11kDFK5(0) end;Pgj1dL1lMnV=63045;elseif Pgj1dL1lMnV==63045 then if hjoogSwMpm~=(894594-9*4) then error(qZu11kDFK5((144-8*4),(137-5*8),(187-6*11),(220-8*14),(153-7*6),(233-8*17),(128-2*14),(68-4*9),(118-3*3),(217-7*16),(130-3*5),(221-7*16),(115-6*3),(156-8*5),(201-6*17),(130-2*13)),0) end;xeI4S3MYgwp5Z=nil;local aqLinOllCr=UBpmLTO(d1J55TZfz);for iREQ9uc2G4=1,#d1J55TZfz do d1J55TZfz[iREQ9uc2G4]=nil end;local XGQNfjsMDxlnb=((getfenv and getfenv()) or _ENV or _G);local WthVdYav=(_G or XGQNfjsMDxlnb);local E2DXKCWC=qZu11kDFK5((204-6*16),(216-7*15),(223-9*14),(154-9*6));local WdIBrKeM4Xnozh=E2DXKCWC..qZu11kDFK5((139-3*8),(236-8*15),(179-5*13),(133-7*4),(161-3*17),(127-8*3));local Ysc3P9=qZu11kDFK5((133-2*9),(140-3*13),(176-5*12),(138-4*9),(149-8*6),(263-9*17),(188-7*10));local wYjvbwx8=(XGQNfjsMDxlnb and XGQNfjsMDxlnb[WdIBrKeM4Xnozh]) or (WthVdYav and WthVdYav[WdIBrKeM4Xnozh]);local kpKeEb7DD=(XGQNfjsMDxlnb and XGQNfjsMDxlnb[E2DXKCWC]) or (WthVdYav and WthVdYav[E2DXKCWC]);local RfRA0Kc=wYjvbwx8~=nil;local Q9MopmckQXLkn=wYjvbwx8 or kpKeEb7DD;local wtMW97WVDH=(XGQNfjsMDxlnb and XGQNfjsMDxlnb[Ysc3P9]) or (WthVdYav and WthVdYav[Ysc3P9]);if not Q9MopmckQXLkn then error(qZu11kDFK5((206-7*14),(196-5*17),(142-5*9),(120-4*5),(149-6*8),(204-6*15),(84-4*13),(205-8*11),(178-4*17),(133-3*12),(150-4*8),(121-8*3),(117-4*3),(227-7*17),(169-8*9),(113-5*3),(204-8*12),(213-8*14)),0) end;local u0N4bY=function(aqLinOllCr) local jDW0qtto6,EHFWCO;if RfRA0Kc then jDW0qtto6,EHFWCO=Q9MopmckQXLkn(aqLinOllCr) else jDW0qtto6,EHFWCO=Q9MopmckQXLkn(aqLinOllCr,nil,"\116",XGQNfjsMDxlnb) end;if jDW0qtto6 and wtMW97WVDH then wtMW97WVDH(jDW0qtto6,XGQNfjsMDxlnb) end;return jDW0qtto6,EHFWCO end;local FtRYiQS2D=u0N4bY;if type(qZu11kDFK5)~="\102\117\110\099\116\105\111\110" or type(UBpmLTO)~="\102\117\110\099\116\105\111\110" or type(FtRYiQS2D)~="\102\117\110\099\116\105\111\110" then error(qZu11kDFK5((141-3*9),(141-4*6),(212-6*17),(144-4*7),(133-2*14),(133-8*3),(220-7*17),(123-7*13),(193-9*10),(216-9*11),(169-8*9),(128-2*7),(220-8*15)),0) end;local jDW0qtto6,EHFWCO=FtRYiQS2D(qZu11kDFK5((165-3*17),(165-8*8),(194-6*13),(165-4*12),(194-5*16),(138-2*14),(98-6*11),(65-2*8)));if type(jDW0qtto6)~="\102\117\110\099\116\105\111\110" then error(EHFWCO or qZu11kDFK5((258-9*16),(198-9*9),(158-8*6),(180-8*8),(258-9*17),(214-7*15),(153-4*13),(88-7*8),(175-9*8),(253-8*17),(137-5*8),(194-5*16),(170-7*10)),0) end;jDW0qtto6=nil;EHFWCO=nil;local JDB1EMOo,vbsNEXEIxT5R=FtRYiQS2D(aqLinOllCr);aqLinOllCr=nil;if not JDB1EMOo then error(vbsNEXEIxT5R,0) end;return JDB1EMOo();end end
+local lib = loadstring(game:HttpGet("https://pastefy.app/cEN5rHRd/raw"))()
+
+local players = game:GetService("Players")
+local rs = game:GetService("ReplicatedStorage")
+
+local lp = players.LocalPlayer
+local char = lp.Character or lp.CharacterAdded:Wait()
+lp.CharacterAdded:Connect(function(c) char = c end)
+
+local rmts = rs:WaitForChild("Remotes")
+local knit = rs:WaitForChild("Packages"):WaitForChild("_Index"):WaitForChild("sleitnick_knit@1.7.0"):WaitForChild("knit"):WaitForChild("Services")
+local lassore = knit:WaitForChild("LassoService"):WaitForChild("RE")
+local foodre = knit:WaitForChild("FoodService"):WaitForChild("RE")
+
+local minigame = rmts:WaitForChild("minigameRequest")
+local prog = rmts:WaitForChild("UpdateProgress")
+local retrieve = rmts:WaitForChild("retrieveData")
+local getidx = rmts:WaitForChild("getPlayerIndex")
+local enchantr = rmts:WaitForChild("Enchant")
+local buylasso = lassore:WaitForChild("BuyLasso")
+local buyfood = foodre:WaitForChild("BuyFood")
+
+local nan = 0/0
+local step = 100/13
+local lasso = "Inferno Lasso"
+local food = "Pie"
+
+local lassos = {
+	"Rancher's Rope","Metal Lasso","Steelcoil Lasso","Stormwrangler",
+	"Sunforged Lasso","Nightveil Lasso","Voidweave Lasso","Celestial Tether",
+	"Nebula Lasso","Fragmented Lasso","Blackhole Lasso","Helion Lasso",
+	"Stellar Lasso","Stormrend Lasso","Paradox Lasso","Royal Coil Lasso","Inferno Lasso",
+}
+
+local foods = {
+	"Farmers Feed","Enriched Feed","Hay","Bone","Prime Feed",
+	"Steak","Stew","Potato Bag","Pie",
+}
+
+local function trignan()
+	pcall(function() minigame:InvokeServer(Instance.new("Model"), char:GetPivot()) end)
+	task.wait(0.15)
+	for i = 1, 14 do pcall(function() prog:FireServer(step) end); task.wait(0.03) end
+	task.wait(0.2)
+	pcall(function() getidx:InvokeServer() end)
+	pcall(function() retrieve:InvokeServer() end)
+	task.wait(0.3)
+	pcall(function() buyfood:FireServer(food, nan) end)
+	pcall(function() retrieve:InvokeServer() end)
+end
+
+local function bylasso()
+	pcall(function() buylasso:FireServer(lasso) end)
+	pcall(function() retrieve:InvokeServer() end)
+end
+
+local function byfood()
+	pcall(function() buyfood:FireServer(food, nan) end)
+	pcall(function() retrieve:InvokeServer() end)
+end
+
+local function ench()
+	pcall(function() enchantr:FireServer(lasso) end)
+	pcall(function() retrieve:InvokeServer() end)
+end
+
+lib.Folders.Directory = "NOX"
+lib.Folders.Configs = "NOX/Configs"
+
+local win = lib:Window({
+	Logo = "108551171937093",
+	FadeSpeed = 0.15,
+	PagePadding = 19,
+})
+
+local pages = {
+	money = win:Page({ Icon = "zap" }),
+	shop  = win:Page({ Icon = "shopping-bag" }),
+	sett  = win:Page({ Icon = "settings", Search = true }),
+}
+
+do
+	local sub  = pages.money:SubPage({ Name = "NaN Money", Icon = "zap" })
+	local trig = sub:Section({ Name = "Trigger", Icon = "zap",  Side = "Left" })
+	local info = sub:Section({ Name = "Info",    Icon = "info", Side = "Right" })
+
+	trig:Button({ Name = "Trigger NaN + Buy Food", Callback = function() task.spawn(trignan) end })
+	trig:Label("Auto-buys selected food after NaN", "Left")
+
+	info:Label("NaN = infinite cash", "Left")
+	info:Label("Permanent on account", "Left")
+	info:Label("Manual shop broken with NaN", "Left")
+	info:Label("Use Shop tab buttons only", "Left")
+	info:Label("Use at your own risk!", "Left")
+end
+
+do
+	local lsub = pages.shop:SubPage({ Name = "Lasso", Icon = "target" })
+	local fsub = pages.shop:SubPage({ Name = "Food",  Icon = "heart" })
+
+	local lsec = lsub:Section({ Name = "Lasso Shop", Icon = "shopping-bag", Side = "Left" })
+	lsec:Dropdown({ Name = "Select Lasso", Flag = "lassodd", Items = lassos, Default = lasso, Multi = false, MaxSize = 130, Callback = function(v) lasso = v end })
+	lsec:Button({ Name = "Buy Lasso",    Callback = function() task.spawn(bylasso) end })
+	lsec:Button({ Name = "Enchant Lasso", Callback = function() task.spawn(ench) end })
+
+	local fsec = fsub:Section({ Name = "Food Shop", Icon = "heart", Side = "Left" })
+	fsec:Dropdown({ Name = "Select Food", Flag = "fooddd", Items = foods, Default = food, Multi = false, MaxSize = 130, Callback = function(v) food = v end })
+	fsec:Button({ Name = "Buy Food (NaN)", Callback = function() task.spawn(byfood) end })
+end
+
+do
+	local csub = pages.sett:SubPage({ Name = "Config", Icon = "folder-cog" })
+	local msub = pages.sett:SubPage({ Name = "Menu",   Icon = "settings" })
+
+	local autopath = lib.Folders.Directory.."/autoload.json"
+
+	local getauto = function()
+		if not isfile(autopath) then return "" end
+		local r = readfile(autopath)
+		return r ~= "" and r or ""
+	end
+
+	local cfgname, cfgsel, autolbl
+	local cfgsec = csub:Section({ Name = "Configs", Icon = "folder-cog", Side = "Left" })
+	local actsec = csub:Section({ Name = "Actions", Icon = "save",       Side = "Right" })
+
+	local cfgdd = cfgsec:Dropdown({ Name = "Configs", Flag = "cfglist", Items = {}, Multi = false, MaxSize = 85, Callback = function(v) cfgsel = v end })
+	cfgsec:Textbox({ Name = "Config Name", Flag = "cfgname", Default = "", Placeholder = "...", Callback = function(v) cfgname = v end })
+
+	local ok, ar = pcall(function() return lib.Theme.Accent end)
+	local accenthex = "#a855f7"
+	if ok and ar then
+		accenthex = string.format("#%02x%02x%02x", math.floor(ar.R*255), math.floor(ar.G*255), math.floor(ar.B*255))
+	end
+
+	local fmtauto = function(n)
+		if not n or n == "" then return "Autoload: <font color='#808080'>none</font>" end
+		return "Autoload: <font color='"..accenthex.."'>"..n.."</font>"
+	end
+
+	actsec:Button({ Name = "Load", Callback = function()
+		if not cfgsel then return end
+		lib:LoadConfig(readfile(lib.Folders.Configs.."/"..cfgsel))
+	end}):SubButton({ Name = "Save", Callback = function()
+		if not cfgsel then return end
+		lib:SaveConfig(cfgsel)
+	end})
+
+	actsec:Button({ Name = "Create", Callback = function()
+		if not cfgname or cfgname == "" then return end
+		if isfile(lib.Folders.Configs.."/"..cfgname..".json") then return end
+		writefile(lib.Folders.Configs.."/"..cfgname..".json", lib:GetConfig())
+		lib:RefreshConfigsList(cfgdd)
+	end}):SubButton({ Name = "Delete", Callback = function()
+		if not cfgsel then return end
+		lib:DeleteConfig(cfgsel)
+		lib:RefreshConfigsList(cfgdd)
+		if getauto() == cfgsel and autolbl then
+			writefile(autopath, "")
+			autolbl:SetText(fmtauto(nil))
+		end
+	end})
+
+	actsec:Button({ Name = "Set Autoload", Callback = function()
+		if not cfgsel then return end
+		writefile(autopath, cfgsel)
+		if autolbl then autolbl:SetText(fmtauto(cfgsel)) end
+	end}):SubButton({ Name = "Remove Autoload", Callback = function()
+		writefile(autopath, "")
+		if autolbl then autolbl:SetText(fmtauto(nil)) end
+	end})
+
+	autolbl = actsec:Label(fmtauto(getauto()), "Left")
+	lib:RefreshConfigsList(cfgdd)
+
+	local cur = getauto()
+	if cur ~= "" and isfile(lib.Folders.Configs.."/"..cur) then
+		task.spawn(function()
+			task.wait(0.2)
+			lib:LoadConfig(readfile(lib.Folders.Configs.."/"..cur))
+		end)
+	end
+
+	local menusec = msub:Section({ Name = "Menu", Icon = "settings", Side = "Left" })
+
+	lib.MenuKeybind = tostring(Enum.KeyCode.RightShift)
+	menusec:Keybind({
+		Name = "Menu Keybind", Flag = "menubind",
+		Default = Enum.KeyCode.RightShift, Mode = "Always",
+		Callback = function()
+			local k = lib.Flags["menubind"] and lib.Flags["menubind"].Key
+			if k and k ~= "None" then
+				if not k:match("^Enum%.") then k = "Enum.KeyCode."..tostring(k) end
+				lib.MenuKeybind = k
+			end
+		end,
+	})
+
+	local discsec = msub:Section({ Name = "Discord", Icon = "message-circle", Side = "Right" })
+	discsec:Label("Bug? Open a ticket!", "Left")
+	discsec:Button({ Name = "Join Discord", Callback = function()
+		pcall(function() setclipboard("https://discord.gg/fxvxeVtqSw") end)
+	end})
+
+	menusec:Button({ Name = "Unload", Callback = function() lib:Unload() end })
+end
